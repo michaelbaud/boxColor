@@ -1,0 +1,24 @@
+.select_div {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.selection {
+  margin: auto;
+}
+
+.box {
+  border: 1px solid black;
+  border-radius: 30px;
+  height: 300px;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  
+}
+
+.box h1 {
+  
+  margin: auto;
+}
