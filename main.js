@@ -8,7 +8,7 @@ $(function(){
   
   aucune.click(function(){
     box.css({
-      'background-color' : 'none'
+      'background-color' : '#fff'
     });
   })
   vert.click(function(){
